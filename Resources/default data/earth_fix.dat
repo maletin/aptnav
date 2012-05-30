@@ -1,5 +1,5 @@
 I
-600 Version - data cycle 2012.04, build 20121278, metadata FixXP700.  Copyright © 2012, Robin A. Peel (robin@xsquawkbox.net).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+600 Version - data cycle 2012.04, build 20121279, metadata FixXP700.  Copyright © 2012, Robin A. Peel (robin@xsquawkbox.net).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 
  00.000000  000.000000 0000E
  00.000000 -010.000000 0010N
@@ -113139,9 +113139,11 @@ I
  51.138333  013.638333 PDCW
  51.071667  010.916667 PDEN
  50.920000  010.965000 PDES
- 49.878333  008.546667 PDFJ
+ 49.882994  008.545588 PDFJ
  49.981667  008.606667 PDFL
  50.136667  008.593333 PDFN
+ 49.935000  008.355000 PDFR1
+ 49.893333  008.498333 PDFS
  52.180000  007.540000 PDGD
  52.108333  007.855000 PDGE
  52.213333  007.685000 PDGN1
@@ -113205,6 +113207,13 @@ I
  52.946667  008.820000 PDWS1
  53.020000  008.803333 PDWS2
  52.973333  008.616667 PDWW
+ 49.866667  008.610000 PEFD1
+ 49.923136  008.612262 PEFD2
+ 49.951667  008.836667 PEFE
+ 49.876667  008.723333 PEFK
+ 50.006589  008.811373 PEFT
+ 49.969747  008.857558 PEFY1
+ 49.965508  008.755224 PEFY2
  49.866667  008.610000 PFED
  49.951667  008.836667 PFEE
  49.906667  008.783333 PFES
